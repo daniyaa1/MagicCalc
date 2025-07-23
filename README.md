@@ -17,8 +17,8 @@ A sleek and responsive calculator built using **HTML, CSS, and JavaScript** — 
 
 ## 🚀 Live Demo
 
-Check it out live on Firebase Hosting:  
-👉 [https://your-firebase-url.web.app](https://your-firebase-url.web.app)
+Check it out live
+https://benevolent-pithivier-48558e.netlify.app/
 
 ---
 
@@ -34,5 +34,5 @@ Check it out live on Firebase Hosting:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/magiccalc.git
+   git clone https://github.com/daniyaa1/magiccalc.git
 
