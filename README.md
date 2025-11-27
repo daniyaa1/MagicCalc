@@ -2,6 +2,9 @@
 
 A sleek and responsive calculator built using **HTML, CSS, and JavaScript** — featuring a **magic theme toggle button** to switch up the vibes. No frameworks. No libraries. Just pure frontend magic.
 
+## Live App Link : https://magic-calc-roan.vercel.app/
+
+
 ---
 
 ## ✨ Features
